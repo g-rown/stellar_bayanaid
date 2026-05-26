@@ -4,6 +4,14 @@ Disaster relief voucher distribution using Stellar blockchain.
 
 ---
 
+## CONTRACT ID:
+https://stellar.expert/explorer/testnet/contract/CACLKR43F7C36MXBHALMQIY2DA5D33PEBZLYTAVUOMIXBBM2WW2CU2EQ
+
+## CONTRACT LINK: 
+https://stellar.expert/explorer/testnet/contract/CACLKR43F7C36MXBHALMQIY2DA5D33PEBZLYTAVUOMIXBBM2WW2CU2EQ
+
+![PICTURE](stellar.png) 
+
 ## Problem
 
 After typhoons in the Philippines, NGOs and barangays struggle to distribute aid transparently because of paper-based records and manual cash handling.
